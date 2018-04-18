@@ -22,7 +22,7 @@ Bollinger Bands indicator is calculated in three steps:
 20 days are default period for bollinger band.
 * Calculate the Standard Deviation
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/26857440/38905552-13f30430-42cf-11e8-80b7-cdb8c52f5445.PNG"></p>
+<img src="https://user-images.githubusercontent.com/26857440/38906129-51865a74-42d2-11e8-923c-d9bda537fdfd.PNG"></p>
 
 n is the period for finding standard deviation here it is 20.
 * Calculate Upper and Lower Band
