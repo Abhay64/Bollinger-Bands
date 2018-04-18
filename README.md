@@ -123,3 +123,7 @@ plt.xlabel('dates')
 plt.legend()
 plt.show()
 ```
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/26857440/38933752-843cb5ca-4337-11e8-98ce-ccabbc2c4b22.PNG"></p>
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/26857440/38933857-c8069f78-4337-11e8-98ab-8602616e0dc1.PNG"></p>
