@@ -127,3 +127,10 @@ plt.show()
 <img src="https://user-images.githubusercontent.com/26857440/38933752-843cb5ca-4337-11e8-98ce-ccabbc2c4b22.PNG"></p>
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/26857440/38933857-c8069f78-4337-11e8-98ab-8602616e0dc1.PNG"></p>
+
+# Reference
+* [Bollinger Band](http://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:bollinger_bands) Stockcharts
+* [Standard Deviation](http://www.mathsisfun.com/data/standard-deviation.html) mathsisfun
+* [Bollinger](https://tradingsim.com/blog/bollinger-bands/) tradingsim
+* [Overview](https://docs.anychart.com/Stock_Charts/Technical_Indicators/Bollinger_Bands) Anychart
+* [Mathematical Description](https://docs.anychart.com/Stock_Charts/Technical_Indicators/Mathematical_Description#bollinger_bands) Anychart
