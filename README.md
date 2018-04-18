@@ -128,7 +128,7 @@ plt.show()
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/26857440/38933857-c8069f78-4337-11e8-98ab-8602616e0dc1.PNG"></p>
 
-# Reference
+# References
 * [Bollinger Band](http://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:bollinger_bands) Stockcharts
 * [Standard Deviation](http://www.mathsisfun.com/data/standard-deviation.html) mathsisfun
 * [Bollinger](https://tradingsim.com/blog/bollinger-bands/) tradingsim
